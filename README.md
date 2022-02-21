@@ -1,4 +1,5 @@
 # Government Job Board
+Demonstrating my skills building a web application using .NET framework - originating from a prospective employer's practical interview task to create a mock job board for a government body they work with.
 Online portal for hosting and applying for jobs within government.<br>
 Built using ASP.NET MVC 5 with C#, SQL Server, HTML, CSS, Bootstrap, and Javascript.
 
